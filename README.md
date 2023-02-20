@@ -6,15 +6,33 @@ Com intuito de cumprir meu objetivo de ser a uma desenvolvedora melhor a cada di
 Para ter uma organização mais clara dos tópicos que pretendo estudar, me auxiliando na montagem do cronograma de estudos e gestão do tempo.
 Também compartilhar com outras pessoas que tenham interesse de estudar os fundamentos de Swift alguns tópicos interessantes e referências de sites ou artigos que me auxiliaram nos estudos.
 
-- [x] [Challenge One](https://github.com/rayanaprata/b-academy-bootcamp-React/tree/main/challengeOne/my-app)
-- [x] [Challenge Two](https://github.com/rayanaprata/b-academy-bootcamp-React/tree/main/challengeTwo/my-app)
-- [x] [Challenge Three](https://github.com/rayanaprata/b-academy-bootcamp-React/tree/main/challengeThree/car-app)
-- [x] [Challenge Four](https://github.com/rayanaprata/b-academy-bootcamp-React/tree/main/challengeFour)
+### 📱 Tópicos para revisão:
 
-To access official React documentation [click here](https://reactjs.org/). 💻
+- [ ] Conceitos básicos de Swift
+- [ ] Boas práticas de programaçao em Swift
+- [ ] SOLID
+- [ ] Filter, Map, Reduce
+- [ ] Lazy variables
+- [ ] Fileprivate vs Private
+- [ ] Struct vs Class
+- [ ] Bounds vs Frames
+- [ ] Programaçao Orientada a Protocolo
+- [ ] Generecis
+- [ ] Extension
+- [ ] Delegate
+- [ ] Singleton
+- [ ] Escaping closures
+- [ ] Gerenciamento de memória - ARC(Automatic Reference Counting), Retain Cycle e Memory Leak
+- [ ] Strong, Weak e Unowned
+- [ ] Concurrency, Thread - GCD(Grand Central Dispatch) e Async Await
+- [ ] Design Patterns
+- [ ] Estados de uma aplicaçao iOS
+- [ ] Ciclo de vida de uma View
+- [ ] ViewCode
+- [ ] Acessibilidade
+- [ ] Testes Unitários
+- [ ] Arquitetura
 
 ---
-
-This bootcamp is an initiative of [Brainn.co](https://brainn.co/), taught by [Fernando Daciuk](https://github.com/fdaciuk).
 
 Everything here is made with a lot of 🤍 by [Rayana Prata](https://www.linkedin.com/in/rayanaprata/).
