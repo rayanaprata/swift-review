@@ -8,7 +8,7 @@ Também compartilhar com outras pessoas que tenham interesse de estudar os funda
 
 ### 📱 Tópicos para revisão:
 
-- [ ] SOLID
+- [x] SOLID
 - [ ] Filter, Map, Reduce
 - [ ] Lazy variables
 - [ ] Fileprivate vs Private
