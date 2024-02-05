@@ -8,8 +8,6 @@ Também compartilhar com outras pessoas que tenham interesse de estudar os funda
 
 ### 📱 Tópicos para revisão:
 
-- [ ] Conceitos básicos de Swift
-- [ ] Boas práticas de programaçao em Swift
 - [ ] SOLID
 - [ ] Filter, Map, Reduce
 - [ ] Lazy variables
