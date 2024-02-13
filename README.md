@@ -9,7 +9,7 @@ Também compartilhar com outras pessoas que tenham interesse de estudar os funda
 ### 📱 Tópicos para revisão:
 
 - [x] [SOLID](https://github.com/rayanaprata/swift-review/blob/main/SOLID.md)
-- [ ] Filter, Map, Reduce
+- [x] [Filter, Map, Reduce](https://github.com/rayanaprata/swift-review/blob/main/filter-map-reduce.md)
 - [ ] Lazy variables
 - [ ] Fileprivate vs Private
 - [ ] Struct vs Class
