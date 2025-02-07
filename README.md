@@ -10,7 +10,7 @@ Também compartilhar com outras pessoas que tenham interesse de estudar os funda
 
 - [x] [SOLID](https://github.com/rayanaprata/swift-review/blob/main/SOLID.md)
 - [x] [Filter, Map, Reduce](https://github.com/rayanaprata/swift-review/blob/main/filter-map-reduce.md)
-- [ ] Lazy variables
+- [x] [Lazy variables](https://github.com/rayanaprata/swift-review/blob/main/lazy-variables.md)
 - [ ] Fileprivate vs Private
 - [ ] Struct vs Class
 - [ ] Bounds vs Frames
