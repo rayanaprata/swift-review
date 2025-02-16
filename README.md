@@ -11,7 +11,7 @@ Também compartilhar com outras pessoas que tenham interesse de estudar os funda
 - [x] [SOLID](https://github.com/rayanaprata/swift-review/blob/main/SOLID.md)
 - [x] [Filter, Map, Reduce](https://github.com/rayanaprata/swift-review/blob/main/filter-map-reduce.md)
 - [x] [Lazy variables](https://github.com/rayanaprata/swift-review/blob/main/lazy-variables.md)
-- [x] Fileprivate vs Private
+- [x] [Fileprivate vs Private]((https://github.com/rayanaprata/swift-review/blob/main/fileprivate-vs-private.md))
 - [ ] Struct vs Class
 - [ ] Bounds vs Frames
 - [ ] Programaçao Orientada a Protocolo
